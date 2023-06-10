@@ -16,4 +16,4 @@ Las funciones de esta web se dividen en dos tipos de usuarios: usuario estándar
 <h3>
 Manual de administrador
 </h3>
-![image](https://github.com/RaulMedinaG/Book-Store/assets/93990968/8a983aee-7a06-4d78-8e32-2eec54163830)
+
