@@ -71,8 +71,8 @@ Cuando le damos al botón de actualizar, estos datos que hayamos cambiado se act
 Una vez hagamos clic en este botón, nos aparece una pantalla con un formulario para rellenar los datos del usuario que queremos añadir. Y si le damos al botón de Volver, no se guardará ningún cambio y volveremos a la visualización de los usuarios.
 <br>
 <img width="auto" height="400px" src="/imagenes/añadirusuario.png" />
-<br>
 En el perfil del usuario nos aparece esta pantalla:
+<br>
 <br>
 <img width="auto" height="400px" src="/imagenes/perfiladmin.png" />
 <br>
