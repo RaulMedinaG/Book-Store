@@ -17,3 +17,5 @@ Las funciones de esta web se dividen en dos tipos de usuarios: usuario estándar
 Manual de administrador
 </h3>
 
+Lo primero que veremos en la web será el login, en el que debemos introducir el email del usuario con el que queremos iniciar sesión (en este caso el del administrador), y su contraseña correspondiente.
+<img width="auto" height="400px" src="/imagenes/loginadmin.png" />
