@@ -77,3 +77,6 @@ En el perfil del usuario nos aparece esta pantalla:
 <img width="auto" height="400px" src="/imagenes/perfiladmin.png" />
 <br>
 En esta pantalla podemos actualizar la información del usuario, como el nombre, el email o la contraseña.
+<h3>
+Manual de usuario
+</h3>
