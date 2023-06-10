@@ -13,3 +13,7 @@ Las funciones de esta web se dividen en dos tipos de usuarios: usuario estándar
 
 -	Como usuario administrador podrás añadir nuevos libros, editar libros ya existentes y eliminar libros de tu biblioteca. Lo mismo para administrar usuarios
 
+<h3>
+Manual de administrador
+</h3>
+![image](https://github.com/RaulMedinaG/Book-Store/assets/93990968/8a983aee-7a06-4d78-8e32-2eec54163830)
