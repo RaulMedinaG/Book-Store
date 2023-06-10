@@ -51,3 +51,11 @@ Si le damos al botón Editar, nos aparece una pantalla con un formulario para ed
 <img width="auto" height="400px" src="/imagenes/editarlibro.png" />
 <br>
 <br>
+Cuando le damos al botón de actualizar, estos datos que hayamos cambiado se actualizan en la base de datos. Y si le damos al botón de Volver, no se guardará ningún cambio y volveremos a la visualización del libro.
+Si hacemos clic en el botón Eliminar, borramos toda su información de la base datos.
+Ahora vamos a la parte de usuarios, que nos aparece en la barra de navegación.
+<br>
+<br>
+<img width="auto" height="400px" src="/imagenes/usuarios.png" />
+<br>
+<br>
