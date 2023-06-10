@@ -1,0 +1,1 @@
+<img src="{{ asset('logo/book_store.png') }}" width="300px" style="margin-bottom: -35%; margin-top: -35%;">
