@@ -38,3 +38,16 @@ Una vez hagamos clic en este botón, nos aparece una pantalla con un formulario 
 <img width="auto" height="400px" src="/imagenes/añadirlibro.png" />
 <br>
 <br>
+Rellenamos el formulario y ya podemos añadir nuestro nuevo libro, esto nos redirige de nuevo a la colección de libros.
+Para visualizar un libro con toda su información tenemos que hacer clic en él.
+<br>
+<br>
+<img width="auto" height="400px" src="/imagenes/verlibroadmin.png" />
+<br>
+<br>
+Si le damos al botón Editar, nos aparece una pantalla con un formulario para editar los datos del libro.
+<br>
+<br>
+<img width="auto" height="400px" src="/imagenes/editarlibro.png" />
+<br>
+<br>
