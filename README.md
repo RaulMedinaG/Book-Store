@@ -86,20 +86,21 @@ Lo primero que veremos en la web será el login, en el que debemos introducir el
 <img width="auto" height="400px" src="/imagenes/loginusuario.png" />
 Una vez hayamos iniciado sesión, nos dirige a la página principal en la que nos aparecerá la colección de libros al completo. En esta pantalla, podremos buscar un libro ya sea por título, autor o género.
 <br>
-<img width="auto" height="400px" src="/imagenes/iniciousuario.png" />
 <br>
+<img width="auto" height="400px" src="/imagenes/iniciousuario.png" />
 Para visualizar un libro con toda su información tenemos que hacer clic en él.
 <br>
-<img width="auto" height="400px" src="/imagenes/verlibrousuario.png" />
 <br>
+<img width="auto" height="400px" src="/imagenes/verlibrousuario.png" />
 Si este libro no lo tenemos comprado, podemos hacerlo pulsando en el botón de Comprar.
 Una vez comprado, nos aparecerán:
 <br>
+<br>
 <img width="auto" height="400px" src="/imagenes/comprado.png" />
 <br>
--	El estado del mismo (si está leído o en proceso de lectura).
--	Un campo de texto donde podremos añadir un comentario.
--	Unas estrellas para valorar el libro.
+-	El estado del mismo (si está leído o en proceso de lectura).<br>
+-	Un campo de texto donde podremos añadir un comentario.<br>
+-	Unas estrellas para valorar el libro.<br>
 -	La posibilidad de prestar el libro a un usuario que no lo tenga. En este caso solo me sale el usuario Pedro, si se lo presto, a Pedro le aparecerá que este libro se lo ha prestado Raúl.
 <br>
 <img width="auto" height="400px" src="/imagenes/prestado.png" />
