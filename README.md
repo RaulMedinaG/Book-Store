@@ -97,26 +97,23 @@ Una vez comprado, nos aparecerán:
 <br>
 <br>
 <img width="auto" height="400px" src="/imagenes/comprado.png" />
-<br>
 -	El estado del mismo (si está leído o en proceso de lectura).<br>
 -	Un campo de texto donde podremos añadir un comentario.<br>
 -	Unas estrellas para valorar el libro.<br>
 -	La posibilidad de prestar el libro a un usuario que no lo tenga. En este caso solo me sale el usuario Pedro, si se lo presto, a Pedro le aparecerá que este libro se lo ha prestado Raúl.
 <br>
-<img width="auto" height="400px" src="/imagenes/prestado.png" />
 <br>
+<img width="auto" height="400px" src="/imagenes/prestado.png" />
 Aun así, si a un usuario le prestan un libro, este sigue teniendo la posibilidad de comprar el libro, devolviéndoselo a la persona que se lo ha prestado.
 <br>
-<img width="auto" height="400px" src="/imagenes/comprado2.png" />
 <br>
+<img width="auto" height="400px" src="/imagenes/comprado2.png" />
 Como se puede observar, no nos sale la opción de prestar el libro a ningún usuario, esto quiere decir que todos los demás usuarios registrados, ya tienen comprado este libro.
 Ahora vamos a la parte de Mis Libros, que nos aparece en la barra de navegación.
 <br>
-<img width="auto" height="400px" src="/imagenes/mislibros.png" />
 <br>
-En esta pantalla podemos visualizar los libros que tenga comprados este usuario.
-En el perfil del usuario nos aparece esta pantalla:
+En esta pantalla podemos visualizar los libros que tenga comprados este usuario. En el perfil del usuario nos aparece esta pantalla:
+<br>
 <br>
 <img width="auto" height="400px" src="/imagenes/perfilusuario.png" />
-<br>
 En esta pantalla podemos actualizar la información del usuario, como el nombre, el email o la contraseña.
