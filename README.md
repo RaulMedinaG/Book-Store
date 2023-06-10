@@ -19,11 +19,22 @@ Manual de administrador
 
 Lo primero que veremos en la web será el login, en el que debemos introducir el email del usuario con el que queremos iniciar sesión (en este caso el del administrador), y su contraseña correspondiente.
 <br>
+<br>
 <img width="auto" height="400px" src="/imagenes/loginadmin.png" />
+<br>
 <br>
 Una vez hayamos iniciado sesión, nos dirige a la página principal en la que nos aparecerá la colección de libros al completo. En esta pantalla, podremos buscar un libro ya sea por título, autor o género, como también podremos añadir un libro a nuestra colección pulsando en el botón Añadir Libro.
 <br>
+<br>
 <img width="auto" height="400px" src="/imagenes/inicioadmin.png" />
 <br>
+<br>
 <img width="auto" height="400px" src="/imagenes/botonañadir.png" />
+<br>
+<br>
+Una vez hagamos clic en este botón, nos aparece una pantalla con un formulario para rellenar los datos del libro que queremos añadir. Y si le damos al botón de Volver, no se guardará ningún cambio y volveremos a la colección de libros.
+<br>
+<br>
+<img width="auto" height="400px" src="/imagenes/añadirlibro.png" />
+<br>
 <br>
