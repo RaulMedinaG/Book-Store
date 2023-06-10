@@ -82,8 +82,8 @@ Manual de usuario
 </h3>
 Lo primero que veremos en la web será el login, en el que debemos introducir el email del usuario con el que queremos iniciar sesión y su contraseña correspondiente.
 <br>
-<img width="auto" height="400px" src="/imagenes/loginusuario.png" />
 <br>
+<img width="auto" height="400px" src="/imagenes/loginusuario.png" />
 Una vez hayamos iniciado sesión, nos dirige a la página principal en la que nos aparecerá la colección de libros al completo. En esta pantalla, podremos buscar un libro ya sea por título, autor o género.
 <br>
 <img width="auto" height="400px" src="/imagenes/iniciousuario.png" />
