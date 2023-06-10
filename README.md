@@ -80,3 +80,58 @@ En esta pantalla podemos actualizar la información del usuario, como el nombre,
 <h3>
 Manual de usuario
 </h3>
+Lo primero que veremos en la web será el login, en el que debemos introducir el email del usuario con el que queremos iniciar sesión y su contraseña correspondiente.
+<br>
+<br>
+<img width="auto" height="400px" src="/imagenes/loginusuario.png" />
+<br>
+<br>
+Una vez hayamos iniciado sesión, nos dirige a la página principal en la que nos aparecerá la colección de libros al completo. En esta pantalla, podremos buscar un libro ya sea por título, autor o género.
+<br>
+<br>
+<img width="auto" height="400px" src="/imagenes/iniciousuario.png" />
+<br>
+<br>
+Para visualizar un libro con toda su información tenemos que hacer clic en él.
+<br>
+<br>
+<img width="auto" height="400px" src="/imagenes/verlibrousuario.png" />
+<br>
+<br>
+Si este libro no lo tenemos comprado, podemos hacerlo pulsando en el botón de Comprar.
+Una vez comprado, nos aparecerán:
+<br>
+<br>
+<img width="auto" height="400px" src="/imagenes/comprado.png" />
+<br>
+<br>
+-	El estado del mismo (si está leído o en proceso de lectura).
+-	Un campo de texto donde podremos añadir un comentario.
+-	Unas estrellas para valorar el libro.
+-	La posibilidad de prestar el libro a un usuario que no lo tenga. En este caso solo me sale el usuario Pedro, si se lo presto, a Pedro le aparecerá que este libro se lo ha prestado Raúl.
+<br>
+<br>
+<img width="auto" height="400px" src="/imagenes/prestado.png" />
+<br>
+<br>
+Aun así, si a un usuario le prestan un libro, este sigue teniendo la posibilidad de comprar el libro, devolviéndoselo a la persona que se lo ha prestado.
+<br>
+<br>
+<img width="auto" height="400px" src="/imagenes/comprado2.png" />
+<br>
+<br>
+Como se puede observar, no nos sale la opción de prestar el libro a ningún usuario, esto quiere decir que todos los demás usuarios registrados, ya tienen comprado este libro.
+Ahora vamos a la parte de Mis Libros, que nos aparece en la barra de navegación.
+<br>
+<br>
+<img width="auto" height="400px" src="/imagenes/mislibros.png" />
+<br>
+<br>
+En esta pantalla podemos visualizar los libros que tenga comprados este usuario.
+En el perfil del usuario nos aparece esta pantalla:
+<br>
+<br>
+<img width="auto" height="400px" src="/imagenes/perfilusuario.png" />
+<br>
+<br>
+En esta pantalla podemos actualizar la información del usuario, como el nombre, el email o la contraseña.
